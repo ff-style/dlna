@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/work/dlna/!svn/ver/24/youplayer/res/anim
+END
+in_lefttoright.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/work/dlna/!svn/ver/22/youplayer/res/anim/in_lefttoright.xml
+END
+out_righttoleft.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/work/dlna/!svn/ver/22/youplayer/res/anim/out_righttoleft.xml
+END
+popshow_anim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/22/youplayer/res/anim/popshow_anim.xml
+END
+push_right_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/work/dlna/!svn/ver/22/youplayer/res/anim/push_right_out.xml
+END
+scale_expand.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/22/youplayer/res/anim/scale_expand.xml
+END
+frame_animation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/work/dlna/!svn/ver/24/youplayer/res/anim/frame_animation.xml
+END
+push_up_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/22/youplayer/res/anim/push_up_out.xml
+END
+scale_zoom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/work/dlna/!svn/ver/22/youplayer/res/anim/scale_zoom.xml
+END
+push_down_out.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/work/dlna/!svn/ver/22/youplayer/res/anim/push_down_out.xml
+END
+pophidden_anim.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/work/dlna/!svn/ver/22/youplayer/res/anim/pophidden_anim.xml
+END

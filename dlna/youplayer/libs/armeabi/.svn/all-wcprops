@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/work/dlna/!svn/ver/56/youplayer/libs/armeabi
+END
+libwifi_setting.so
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/work/dlna/!svn/ver/56/youplayer/libs/armeabi/libwifi_setting.so
+END
+libplayer.so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/libplayer.so
+END
+libchar.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/libchar.so
+END
+liblogic.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/liblogic.so
+END
+libhw_40.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/libhw_40.so
+END
+libhw_23.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/libhw_23.so
+END
+libhw_41.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/libhw_41.so
+END
+libffmpeg.so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/23/youplayer/libs/armeabi/libffmpeg.so
+END

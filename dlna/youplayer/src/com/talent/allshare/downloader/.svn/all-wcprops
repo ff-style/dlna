@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader
+END
+DownloadInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader/DownloadInfo.java
+END
+DownloadFileAsync.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader/DownloadFileAsync.java
+END
+SystemFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/69/youplayer/src/com/talent/allshare/downloader/SystemFacade.java
+END
+RealSystemFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/work/dlna/!svn/ver/69/youplayer/src/com/talent/allshare/downloader/RealSystemFacade.java
+END
+DownloadDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader/DownloadDB.java
+END
+DownloadDBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader/DownloadDBHelper.java
+END
+DownlaodStateListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader/DownlaodStateListener.java
+END
+DownloadNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/85/youplayer/src/com/talent/allshare/downloader/DownloadNotification.java
+END

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:visibility="invisible"
+    android:scaleType="fitXY">
+    
+	    <com.youplayer.player.fullplayer.YouPlayerSurfaceView android:id="@+id/fullplayer_surface_view_system"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	        android:visibility="invisible" />
+	    <com.youplayer.player.fullplayer.YouPlayerSurfaceView android:id="@+id/fullplayer_surface_view_fone"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	        android:visibility="invisible" />
+         
+        <com.youplayer.player.fullplayer.YouPlayerSubtitleView  
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:id="@+id/fullplayer_subtitle_view" />
+</RelativeLayout>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util
+END
+YouUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/YouUtility.java
+END
+LOG.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/LOG.java
+END
+YouPhonePowerUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/YouPhonePowerUtil.java
+END
+YouOnGesture.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/YouOnGesture.java
+END
+YouPhonePowerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/YouPhonePowerListener.java
+END
+YouPlayerSensorObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/YouPlayerSensorObserver.java
+END
+YouPlayerTouchPointersUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/util/YouPlayerTouchPointersUtil.java
+END

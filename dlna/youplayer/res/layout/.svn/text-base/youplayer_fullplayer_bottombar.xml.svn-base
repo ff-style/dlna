@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:visibility="invisible"
+    android:background="@drawable/youplayer_fullplayer_bottom_bg" >
+    
+    
+        
+    
+    
+    <TableLayout 
+          android:id="@+id/play_btns_table"
+          android:layout_width="fill_parent"
+    	  android:layout_height="wrap_content" 
+
+    	   >
+    	<!-- android:layout_below="@id/play_progress_table"  -->  
+	    <TableRow
+	        android:id="@+id/tableRow2"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content" 
+	        android:layout_gravity="center">
+<!-- 
+	    <ImageButton
+	        android:id="@+id/fullplayer_btm_imgb_more"
+	        android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:layout_weight="5"
+	        android:background="#00000000"
+	        android:scaleType="center"
+	        android:src="@drawable/youplayer_fullplayer_bottom_btn_more" />
+
+        <ImageButton
+            android:id="@+id/fullplayer_imgb_dlna"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:background="#00000000"
+            android:scaleType="center"
+            android:src="@drawable/youplayer_fullplayer_bottom_btn_airone" />
+
+        <ImageButton
+            android:id="@+id/fullplayer_btm_imgb_line0"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:scaleType="center"
+            android:src="@drawable/youplayer_fullplayer_bottom_line" />
+        
+        -->        
+        
+	    <ImageButton
+	        android:id="@+id/fullplayer_btm_imgb_previous"
+	        android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:layout_weight="2"
+	        android:background="#00000000"
+	        android:scaleType="center"
+	        android:src="@drawable/youplayer_fullplayer_bottom_btn_prev" />
+
+	 	<ImageButton
+	 	    android:id="@+id/fullplayer_btm_imgb_play"
+	 	    android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_gravity="center"
+	 	    android:layout_weight="2"
+	 	    android:background="#00000000"
+	 	    android:scaleType="center"
+	 	    android:src="@drawable/youplayer_fullplayer_bottom_btn_play" />
+
+	 	<ImageButton
+	 	    android:id="@+id/fullplayer_btm_imgb_next"
+	 	    android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	 	    android:layout_height="wrap_content"
+	 	    android:layout_gravity="center"
+	 	    android:layout_weight="2"
+	 	    android:background="#00000000"
+	 	    android:scaleType="center"
+	 	    android:src="@drawable/youplayer_fullplayer_bottom_btn_next" />
+
+<!-- 
+	        <TextView
+	            android:id="@+id/fullplayer_btm_text_time_min"
+	            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/fullplayer_btm_text_time_textsize"
+	            android:text="" 
+	            android:gravity="center"
+	            android:layout_gravity="center_vertical"
+	            
+	            android:layout_weight="3"/>
+		 --> 	
+	      
+		    <SeekBar
+		        android:id="@+id/full_play_seekbar" 
+			    android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center"
+				android:thumb="@drawable/youplayer_fullplayer_bottom_seekbar_thumb"
+				android:progressDrawable="@drawable/youplayer_fullplayer_bottom_seekbar_style"
+				android:maxHeight="@dimen/fullplayer_btm_seekbar_max_height" 
+				android:minHeight="@dimen/fullplayer_btm_seekbar_min_height"
+				android:paddingLeft="@dimen/fullplayer_btm_seekbar_margin_left" 
+				android:paddingRight="@dimen/fullplayer_btm_seekbar_margin_right" 
+				android:layout_weight="12"/>
+		    
+		    <!-- 
+		     <TextView
+	            android:id="@+id/fullplayer_btm_text_time_max"
+	            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	            android:layout_height="wrap_content"
+	            android:textSize="@dimen/fullplayer_btm_text_time_textsize"
+	            android:text="" 
+	            android:gravity="center"
+	            android:layout_gravity="center_vertical"
+	            
+	             android:layout_weight="3"/>
+		      -->
+	 	<!-- 
+	 	  <ImageButton
+            android:id="@+id/fullplayer_btm_imgb_line1"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:scaleType="center"
+            android:src="@drawable/youplayer_fullplayer_bottom_line" />
+	     
+
+        <ImageButton
+            android:id="@+id/fullplayer_btm_imgb_quality"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:background="#00000000"
+            android:scaleType="center"
+            android:src="@drawable/youplayer_fullplayer_quality_standard_icon" />
+
+	     <ImageButton
+	         android:id="@+id/fullplayer_btm_imgb_fullscreen"
+	         android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+	         android:layout_height="wrap_content"
+	         android:layout_gravity="center"
+	         android:layout_weight="5"
+	         android:background="#00000000"
+	         android:scaleType="center"
+	         android:src="@drawable/youplayer_fullplayer_bottom_btn_aspect" />
+	       -->  
+	    </TableRow>
+	</TableLayout>
+	
+</RelativeLayout>

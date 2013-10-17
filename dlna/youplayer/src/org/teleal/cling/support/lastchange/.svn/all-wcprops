@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/Event.java
+END
+InstanceID.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/InstanceID.java
+END
+EventedValueUnsignedIntegerTwoBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueUnsignedIntegerTwoBytes.java
+END
+EventedValueUnsignedIntegerFourBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueUnsignedIntegerFourBytes.java
+END
+LastChangeParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/LastChangeParser.java
+END
+EventedValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValue.java
+END
+EventedValueShort.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueShort.java
+END
+EventedValueURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueURI.java
+END
+LastChange.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/LastChange.java
+END
+EventedValueEnumArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueEnumArray.java
+END
+EventedValueEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueEnum.java
+END
+EventedValueString.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/lastchange/EventedValueString.java
+END

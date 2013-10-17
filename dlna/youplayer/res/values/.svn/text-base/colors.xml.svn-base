@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="pink">#FF00FF</color>
+    
+    
+    
+    <color name="fullplayer_background">#000000</color>
+    <color name="fullplayer_lock_textcolor">#e6e6e6</color>
+    <color name="fullplayer_device_item_default_color">#1866a6</color>
+    <color name="fullplayer_device_item_selected_color">#848a8d</color>
+    <color name="white_background">#ffffff</color>
+    <color name="black_background">#000000</color>
+    <color name="view_gesture_color">#00ffff</color>
+    <color name="view_gesture_uncertain_color">#ff0000</color>
+    <color name="white_text_background">#ffffff</color>
+    <color name="info_text_color">#a2acb4</color>
+    <color name="tips_text_color">#bebebe</color>
+	<color name="audio_file_value_background">#b3b3b3</color>
+	<color name="white_text_audio_album">#969595</color>
+	<color name="online_drame_listview_item">#494b4d</color>
+	<color name="online_drame_listview_line">#2d3036</color>
+	<color name="online_drame_no_select_font">#858787</color>
+	<color name="online_drame_click_item">#0075f8</color>
+	<color name="recommend_detail_textcolor">#3b3b3b</color>
+	<color name="notification_recommend_textclolor">#7a7a7a</color>
+	<color name="online_home_label_textcolor">#e9e8e8</color>
+	<color name="online_home_label_source_color">#c58f3b</color>
+	<color name="online_home_label_info_color">#929191</color>
+	<!-- push notification -->
+	
+	<color name="notification_backgroud">#F5F5F5</color>
+	<color name="notification_title_textcolor">#000000</color>
+	<color name="notification_content_textcolor">#000000</color>
+	
+	
+	<color name="black_background_lite">#384046</color>
+	<color name="home_black_label">#cc000000</color>
+	
+	<!-- recommend right -->
+	<color name="recommend_right_top_font_color">#c9cdd3</color>
+	
+	<!-- add by lilp start-->
+	<color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="text_color_grey">#808080</color>
+    <!-- add by lilp end-->
+    
+    
+    <!-- 智能推荐 -->
+    <color name="recommend_right_label_default_color">#c9cdd3</color>
+    <color name="recommend_right_label_click_color">#3bc591</color>
+    <color name="recommend_right_label_text_color">#7a8089</color>
+    
+    <!-- 离线下载 -->
+    <color name="page_bg_color">#ff1a1a1a</color>
+    <color name="download_itme_font_color">#7e7e7e</color>
+    
+    <color name="local_meida_num_color">#969696</color>
+    <color name="mycollect_spineer_item_color">#FFFFFFFF</color>
+    
+    
+    <!-- 在线搜索 -->
+    <color name="online_search_empty">#626060</color>
+    
+    <color name="background_color">#1d1e20</color>
+    
+    <color name="online_lable_color">#a6a6a6</color>
+    
+    <color name="transparent">#00000000</color>
+    <color name="background_dark_transparent">#CC000000</color>
+    <color name="text_num_gray">#333</color>
+    <color name="dialog_title_blue">#9CCCF7</color>
+    
+    <!-- 在线栏目 详情页 -->
+    <color name="online_detail_list_background_color">#191C2F40</color>
+    <color name="online_top_info_color">#cdced2</color>
+    <color name="online_detail_tab_text_color">#929393</color>
+    <color name="online_comment_list_background_color">#191C2F40</color>
+    <color name="online_comment_all_background_color">#dedfdf</color>
+    <color name="online_comment_list_line_color">#f2f2f2</color>
+    <color name="online_comment_list_text_color">#979799</color>
+    <color name="online_comment_tab_title_color">#33384e</color>
+    <color name="online_detail_event_desc_color">#413e3e</color>
+    <color name="online_list_item_title_color">#959596</color>
+    <color name="online_list_item_text_color">#d0d0d0</color>
+    <color name="online_list_item_icon_text_color">#7b7b7c</color>
+    <color name="online_list_item_line_color">#2b2c2d</color>
+    <color name="online_list_item_detail_text_color">#a2a2a2</color>
+    <color name="online_search_list_item_title_color">#7e7e7e</color>
+    <color name="online_search_list_item_text_color">#585858</color>
+    <color name="online_poster_content_text_color">#aaaaaa</color>
+    
+
+    <!-- 本地 -->
+    <color name="local_tab_color">#1b1b1b</color>
+    <color name="local_scanning_way_text_color">#999999</color>
+    <color name="local_scanning_way_backgroud">#323334</color>
+    <color name="local_pop_line_color">#255e99</color>
+    <color name="local_list_item_name_color">#bfbfbf</color>
+    
+    <color name="left_menu_bg_color">#1e1e1e</color>
+    <color name="left_menu_title_text_color">#5f5f5f</color>
+    <color name="left_list_text_color">#c7c7c7</color>
+    <color name="right_list_text_color">#b3b3b3</color>
+    <color name="right_list_child_text_color">#b3b3b3</color>
+</resources>

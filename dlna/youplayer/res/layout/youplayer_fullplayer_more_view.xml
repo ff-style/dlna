@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+     >
+
+    <LinearLayout
+        android:id="@+id/tableRow1"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/fullplayer_full_bottom_btn_width"
+        android:layout_weight="1" >
+
+        <ImageButton
+            android:id="@+id/fullplayer_imgb_download"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:src="@drawable/youplayer_icon_offline_cache" />
+
+        <ImageButton
+            android:id="@+id/fullplayer_imgb_share"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:src="@drawable/youplayer_icon_share" />
+		<ImageButton
+            android:id="@+id/fullplayer_imgb_3d"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:scaleType="center"
+            android:src="@drawable/youplayer_fullplayer_more_btn_3d" />
+       
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/tableRow2"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/fullplayer_full_bottom_btn_width"
+        android:layout_weight="1" >
+
+	 <ImageButton
+            android:id="@+id/fullplayer_imgb_track"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/fullplayer_full_more_margin_top"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:src="@drawable/youplayer_fullplayer_bottom_btn_track" />
+  
+        <ImageButton
+            android:id="@+id/fullplayer_imgb_speed"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/fullplayer_full_more_margin_top"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:scaleType="center"
+            android:src="@drawable/youplayer_fullplayer_bottom_btn_speed10" />
+
+        
+
+        <ImageButton
+            android:id="@+id/fullplayer_btm_imgb_lock"
+            android:layout_width="@dimen/fullplayer_full_bottom_btn_width"
+            android:layout_height="wrap_content"
+             android:layout_marginTop="@dimen/fullplayer_full_more_margin_top"
+            android:layout_weight="1"
+             android:scaleType="center"
+            android:background="#00000000"
+            android:src="@drawable/youplayer_fullplayer_bottom_btn_lock"
+             />
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="settings_subtitle_fontsizes">
+        <item >大</item>
+        <item >中</item>
+        <item >小</item>
+    </string-array>
+    <string-array name="player_speeds">
+        <item >x0.8倍速播放</item>
+        <item >x1.0倍速播放</item>
+        <item >x1.5倍速播放</item>
+        <item >x2.0倍速播放</item>
+    </string-array>
+    
+    <string-array name="mycollect_spinner">
+        <item >全部</item>
+        <item >电影</item>
+        <item >电视剧</item>
+        <item >综艺</item>
+        <item >动漫</item>
+        <item >其他</item>
+    </string-array>
+     <string-array name="reseeding_type_spinner">
+        <item>全部</item>
+        <item>等待上映</item>
+        <item>已上映</item>
+        <item>更新中</item>
+        <item>已完结</item>
+    </string-array>
+     <string-array name="anthology_type">
+        <item>预告片</item>
+        <item>剧集</item>
+    </string-array>    
+    
+    <!-- 通知 -->
+    <string-array name="nofity_type_spinner">
+        <item>全部</item>
+        <item>系统通知</item>
+        <item>精彩影讯</item>
+        <item>热剧追播</item>
+        <item>更多精彩</item>
+    </string-array>
+    
+    <string-array name="weibo_items">
+        <item>新浪微博</item>
+        <item>腾讯微博</item>
+    </string-array>
+    <string-array name="online_speeds">
+        <item />
+        <item>高</item>
+        <item>中</item>
+        <item>低</item>        
+    </string-array>
+    <string-array name="search_category_spinner">
+        <item>全部</item>
+        <item>片名</item>
+        <item>导演和主演</item>
+    </string-array>   
+    
+    <string-array name="play_quality">
+        <item >标清</item>
+        <item >高清</item>
+        <item >超清</item>     
+    </string-array>    
+    
+</resources>

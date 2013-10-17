@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+
+    android:visibility="gone">
+    
+    <RelativeLayout android:layout_width="wrap_content"
+            android:id="@+id/fullplayer_radio_text" 
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true">
+            <!-- 
+            <TextView android:id="@+id/bar_text_radio_name"
+                android:textColor="@color/white_background" 
+                android:singleLine="true"
+                android:text="@string/radioname" 
+                android:textSize="@dimen/fullplayer_normal_textsize"
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/fullplayer_bar_text_audio_file_paddingsize"
+                android:layout_alignParentTop="true" 
+                android:layout_alignParentLeft="true" />
+
+            <TextView android:id="@+id/bar_text_radio_name_value"
+                android:textColor="@color/white_background" 
+                android:singleLine="true"
+                android:ellipsize="end" 
+                android:textSize="@dimen/fullplayer_normal_textsize"
+                android:layout_width="@dimen/fullplayer_full_audio_textview_width" 
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/zerodipvalue" 
+                android:layout_toRightOf="@id/bar_text_radio_name"
+                android:layout_alignTop="@id/bar_text_radio_name" />
+
+            <TextView android:id="@+id/bar_text_radio_hz"
+                android:textColor="@color/white_background" 
+                android:singleLine="true"
+                android:text="@string/frequency" 
+                android:textSize="@dimen/fullplayer_normal_textsize"
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/fullplayer_bar_text_radio_hz_paddingsize"
+                android:layout_below="@id/bar_text_radio_name"
+                android:layout_alignLeft="@id/bar_text_radio_name" />
+
+            <TextView android:id="@+id/bar_text_radio_hz_value"
+                android:textColor="@color/white_background" 
+                android:singleLine="true"
+                android:ellipsize="end" 
+                android:textSize="@dimen/fullplayer_normal_textsize"
+                android:layout_width="@dimen/fullplayer_full_audio_textview_width" 
+                android:layout_height="wrap_content"
+                android:paddingRight="@dimen/fullplayer_bar_text_radio_hz_value_paddingsize"
+                android:layout_toRightOf="@id/bar_text_radio_hz"
+                android:layout_alignTop="@id/bar_text_radio_hz" />
+            -->
+        </RelativeLayout>
+        <ImageView android:id="@+id/full_radio_thumbnail"
+            android:layout_width="184dp"
+            android:layout_height="184dp"
+            />
+	
+</RelativeLayout>

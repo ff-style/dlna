@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="100dip"
+     >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dip"
+        android:layout_marginTop="10dip"
+        android:layout_marginBottom="10dip"
+        >
+    </ImageView>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:layout_toRightOf="@id/imageView"
+        android:text="sss"
+        android:layout_centerVertical="true"
+         >
+    </TextView>
+	<ImageView
+	    android:id="@+id/download"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/download"
+	    android:layout_alignParentRight="true"
+	    android:layout_centerVertical="true"
+	    android:textSize="20sp"
+	    android:textColor="@color/black"
+	    android:clickable="true"
+	    android:background="@color/white"
+	   android:src="@drawable/download"
+	    />
+	
+
+</RelativeLayout>

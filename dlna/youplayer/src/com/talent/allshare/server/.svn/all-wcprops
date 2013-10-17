@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/work/dlna/!svn/ver/77/youplayer/src/com/talent/allshare/server
+END
+ShareActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/77/youplayer/src/com/talent/allshare/server/ShareActivity.java
+END
+ShareAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/30/youplayer/src/com/talent/allshare/server/ShareAdapter.java
+END
+ShareService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/65/youplayer/src/com/talent/allshare/server/ShareService.java
+END
+IShareService.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/39/youplayer/src/com/talent/allshare/server/IShareService.aidl
+END

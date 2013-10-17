@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+ 
+    android:visibility="gone">
+    
+    
+    <RelativeLayout
+        android:id="@+id/full_audio_text_container" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+         >      
+    <ImageView android:id="@+id/full_audio_thumbnail_frame"
+            android:background="@drawable/youplayer_fullscreen_cdcase_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />    
+    <ImageView android:id="@+id/full_audio_thumbnail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    <ImageView android:id="@+id/full_audio_thumbnail_reflection"
+            android:layout_below="@id/full_audio_thumbnail_frame"
+            android:background="@drawable/youplayer_fullscreen_cdcase_reflash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+                        
+	<RelativeLayout android:layout_width="wrap_content"
+            android:id="@+id/full_audio_view_container" android:layout_height="wrap_content"
+            android:visibility="visible" 
+            android:layout_below="@id/full_audio_thumbnail_reflection"
+            >
+            <TextView 
+                android:id="@+id/bar_text_audio_file_value"
+                android:textColor="@color/audio_file_value_background" 
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:textSize="@dimen/fullplayer_bar_text_audio_file_value"
+                android:layout_width="@dimen/fullplayer_full_audio_textview_width" 
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true" 
+                android:layout_alignParentLeft="true" />
+
+            <TextView android:id="@+id/bar_text_audio_album"
+                android:textColor="@color/white_text_audio_album" 
+                android:singleLine="true"
+                android:text="@string/albumname" 
+                android:textSize="@dimen/fullplayer_bar_bar_text_audio_album"
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:layout_below="@id/bar_text_audio_file_value"
+                android:layout_alignLeft="@id/bar_text_audio_file_value" />
+
+            <TextView 
+                android:id="@+id/bar_text_audio_album_value"
+                android:textColor="@color/white_text_audio_album" 
+                android:singleLine="true"
+                android:ellipsize="end" 
+                android:layout_width="@dimen/fullplayer_full_audio_textview_width" 
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/fullplayer_bar_bar_text_audio_album"
+                android:paddingRight="@dimen/fullplayer_bar_text_audio_album_value_paddingsize"
+                android:layout_toRightOf="@id/bar_text_audio_album"
+                android:layout_alignTop="@id/bar_text_audio_album" />
+
+            <TextView 
+                android:id="@+id/bar_text_audio_singer"
+                android:textColor="@color/white_text_audio_album" 
+                android:singleLine="true"
+                android:text="@string/artist" 
+                android:textSize="@dimen/fullplayer_bar_bar_text_audio_album"
+                android:layout_width="wrap_content" 
+                android:layout_height="wrap_content"
+                android:layout_below="@id/bar_text_audio_album"
+                android:layout_alignLeft="@id/bar_text_audio_album" />
+
+            <TextView 
+                android:id="@+id/bar_text_audio_singer_value"
+                android:textColor="@color/white_text_audio_album" 
+                android:textSize="@dimen/fullplayer_bar_bar_text_audio_album"
+                android:singleLine="true"
+                android:ellipsize="end" 
+                android:layout_width="@dimen/fullplayer_full_audio_textview_width" 
+                android:layout_height="wrap_content"
+                android:paddingRight="@dimen/fullplayer_bar_text_audio_singer_value_paddingsize"
+                android:layout_toRightOf="@id/bar_text_audio_singer"
+                android:layout_alignTop="@id/bar_text_audio_singer" />
+
+        </RelativeLayout>
+        
+	</RelativeLayout>
+        <com.youplayer.player.fullplayer.YouLyricView 
+            android:visibility="invisible" 
+            android:id="@+id/fullplayer_audio_lyricview" 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/fullplayer_bar_bar_text_lyric"
+            android:paddingTop="@dimen/fullplayer_bar_text_audio_singer_paddingsize"
+            android:paddingLeft="@dimen/fullplayer_bar_text_audio_singer_paddingsize"
+            android:layout_toRightOf="@id/full_audio_text_container"
+             />
+</RelativeLayout>

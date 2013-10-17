@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/85/youplayer/src/com/youplayer/player
+END
+YouApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/work/dlna/!svn/ver/85/youplayer/src/com/youplayer/player/YouApplication.java
+END
+MusicExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/work/dlna/!svn/ver/53/youplayer/src/com/youplayer/player/MusicExplorer.java
+END
+YouPlayerConstant.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/YouPlayerConstant.java
+END
+Player_UIManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/Player_UIManager.java
+END
+YouPlayerAbsoluteLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/YouPlayerAbsoluteLayout.java
+END
+YouPlayerAndroidPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/YouPlayerAndroidPlayer.java
+END
+YouGestureOverlayView.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/YouGestureOverlayView.java
+END
+YouPlayerFullScreenPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/82/youplayer/src/com/youplayer/player/YouPlayerFullScreenPlayer.java
+END
+TestActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/TestActivity.java
+END
+YouExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/player/YouExplorer.java
+END

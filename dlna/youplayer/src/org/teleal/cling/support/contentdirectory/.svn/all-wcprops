@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/contentdirectory
+END
+AbstractContentDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/contentdirectory/AbstractContentDirectoryService.java
+END
+ContentDirectoryErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/contentdirectory/ContentDirectoryErrorCode.java
+END
+DIDLParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/contentdirectory/DIDLParser.java
+END
+ContentDirectoryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/contentdirectory/ContentDirectoryException.java
+END

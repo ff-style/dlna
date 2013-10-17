@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/impl/state
+END
+Playing.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/impl/state/Playing.java
+END
+AbstractState.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/impl/state/AbstractState.java
+END
+PausedPlay.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/impl/state/PausedPlay.java
+END
+NoMediaPresent.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/impl/state/NoMediaPresent.java
+END
+Stopped.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/impl/state/Stopped.java
+END

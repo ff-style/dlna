@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="popwindow_anim_style">
+        <item name="android:windowEnterAnimation">@anim/popshow_anim</item> <!-- 指定显示的动画xml  -->
+        <item name="android:windowExitAnimation">@anim/pophidden_anim</item> <!-- 指定消失的动画xml  -->
+ </style>
+    
+<style name="dialog" parent="@android:style/Theme.Dialog">
+  <item name="android:windowFrame">@null</item>
+  <item name="android:windowIsFloating">true</item>
+  <item name="android:windowIsTranslucent">true</item>
+  <item name="android:windowNoTitle">true</item>
+  <item name="android:background">@android:color/transparent</item>
+  <item name="android:windowBackground">@android:color/transparent</item>
+  <item name="android:backgroundDimEnabled">true</item>
+  <item name="android:backgroundDimAmount">0.6</item>
+ </style>
+    
+	<style name="starRatingBar" parent="@android:style/Widget.RatingBar">
+		<item name="android:progressDrawable">@drawable/youplayer_star_rating_bar</item>
+		<item name="android:minHeight">9dip</item>
+		<item name="android:maxHeight">9dip</item>
+	</style>
+	<style name="poster_text">
+		<!-- android:layout_marginTop="5dip" android:layout_marginLeft="15dip" -->
+		<item name="android:layout_marginTop">2dip</item>
+		<item name="android:layout_marginLeft">15dip</item>
+		<item name="android:textSize">15sp</item>
+	</style>
+	
+	<style name="AnimationFade">
+		<!-- PopupWindow左右弹出的效果 -->
+		<item name="android:windowEnterAnimation">@anim/in_lefttoright</item>
+		<item name="android:windowExitAnimation">@anim/out_righttoleft</item>
+	</style>
+	<style name="scale_zoom_animation">
+	    <item name="android:windowEnterAnimation">@anim/scale_expand</item>
+		<item name="android:windowExitAnimation">@anim/scale_zoom</item>
+	</style>
+	
+	<style name="progressBarHorizontal_color" parent="android:Widget.ProgressBar.Horizontal">
+		<item name="android:indeterminateOnly">false</item>
+		<item name="android:progressDrawable">@drawable/youplayer_progress_color_horizontal</item>
+		<item name="android:minHeight">5dip</item>
+		<item name="android:maxHeight">5dip</item>
+	</style>
+	
+	<style name="shareActivity_onTitle" >
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowContentOverlay">@null</item> 
+        <item name="android:backgroundDimEnabled">false</item>
+	</style>
+	<style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">  
+    <item name="android:button">@drawable/youplayer_local_folder_checkbox_style</item>  
+</style> 
+</resources>

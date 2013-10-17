@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/work/dlna/!svn/ver/53/youplayer/src/com/talent/allshare/player
+END
+AbstractPlayEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/53/youplayer/src/com/talent/allshare/player/AbstractPlayEngine.java
+END
+IPlayEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/IPlayEngine.java
+END
+MusicPlayerEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/MusicPlayerEngineImpl.java
+END
+PlayState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/PlayState.java
+END
+DownLoadHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/DownLoadHelper.java
+END
+PlayBrocastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/PlayBrocastReceiver.java
+END
+PlayerEngineListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/PlayerEngineListener.java
+END
+FileDownTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/FileDownTask.java
+END
+FileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/work/dlna/!svn/ver/33/youplayer/src/com/talent/allshare/player/FileManager.java
+END
+MediaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/53/youplayer/src/com/talent/allshare/player/MediaManager.java
+END
+PlayBorcastFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/PlayBorcastFactory.java
+END
+VideoPlayerEngineImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/player/VideoPlayerEngineImpl.java
+END

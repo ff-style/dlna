@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback
+END
+SetAVTransportURI.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/SetAVTransportURI.java
+END
+GetCurrentTransportActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/GetCurrentTransportActions.java
+END
+GetPositionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/GetPositionInfo.java
+END
+Play.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/Play.java
+END
+Stop.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/Stop.java
+END
+Seek.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/Seek.java
+END
+GetTransportInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/GetTransportInfo.java
+END
+GetDeviceCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/GetDeviceCapabilities.java
+END
+GetMediaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/GetMediaInfo.java
+END
+Pause.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/avtransport/callback/Pause.java
+END

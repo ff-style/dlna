@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/work/dlna/!svn/ver/84/youplayer/res/layout
+END
+footer_more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/work/dlna/!svn/ver/24/youplayer/res/layout/footer_more.xml
+END
+main_select.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/work/dlna/!svn/ver/24/youplayer/res/layout/main_select.xml
+END
+main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/work/dlna/!svn/ver/24/youplayer/res/layout/main.xml
+END
+check_network.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/work/dlna/!svn/ver/24/youplayer/res/layout/check_network.xml
+END
+download_dialog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/work/dlna/!svn/ver/30/youplayer/res/layout/download_dialog.xml
+END
+header.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/work/dlna/!svn/ver/24/youplayer/res/layout/header.xml
+END
+youplayer_fullplayer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/work/dlna/!svn/ver/48/youplayer/res/layout/youplayer_fullplayer.xml
+END
+youplayer_root_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_root_layout.xml
+END
+youplayer_fullplayer_quality_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_fullplayer_quality_view.xml
+END
+music_play_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/work/dlna/!svn/ver/53/youplayer/res/layout/music_play_list.xml
+END
+head.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/work/dlna/!svn/ver/24/youplayer/res/layout/head.xml
+END
+share_main.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/22/youplayer/res/layout/share_main.xml
+END
+youplayer_fullplayer_radio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_fullplayer_radio.xml
+END
+content_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/53/youplayer/res/layout/content_layout.xml
+END
+device_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/work/dlna/!svn/ver/30/youplayer/res/layout/device_list_item.xml
+END
+youplayer_explorer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_explorer.xml
+END
+youplayer_fullplayer_audio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_fullplayer_audio.xml
+END
+main_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/work/dlna/!svn/ver/71/youplayer/res/layout/main_tab.xml
+END
+more_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/44/youplayer/res/layout/more_list_item.xml
+END
+youplayer_fullplayer_video.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_fullplayer_video.xml
+END
+video_player_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/work/dlna/!svn/ver/22/youplayer/res/layout/video_player_layout.xml
+END
+youplayer_audio_sub_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_audio_sub_layout.xml
+END
+youplayer_player_speedlist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_player_speedlist.xml
+END
+content_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/work/dlna/!svn/ver/88/youplayer/res/layout/content_list_item.xml
+END
+picture_player_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/work/dlna/!svn/ver/22/youplayer/res/layout/picture_player_layout.xml
+END
+file_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/53/youplayer/res/layout/file_list_item.xml
+END
+music_player_layout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/work/dlna/!svn/ver/61/youplayer/res/layout/music_player_layout.xml
+END
+local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/53/youplayer/res/layout/local.xml
+END
+bottom_tab.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/88/youplayer/res/layout/bottom_tab.xml
+END
+pul_list.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/work/dlna/!svn/ver/24/youplayer/res/layout/pul_list.xml
+END
+main_tabhost_tab_a.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/work/dlna/!svn/ver/53/youplayer/res/layout/main_tabhost_tab_a.xml
+END
+youplayer_fullplayer_topbar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_fullplayer_topbar.xml
+END
+main_tabhost_tab_b.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/work/dlna/!svn/ver/53/youplayer/res/layout/main_tabhost_tab_b.xml
+END
+mp3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/work/dlna/!svn/ver/53/youplayer/res/layout/mp3.xml
+END
+main_tabhost_tab_c.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/work/dlna/!svn/ver/53/youplayer/res/layout/main_tabhost_tab_c.xml
+END
+status_bar_ongoing_event_progress_bar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/75/youplayer/res/layout/status_bar_ongoing_event_progress_bar.xml
+END
+youplayer_fullplayer_bottombar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/work/dlna/!svn/ver/31/youplayer/res/layout/youplayer_fullplayer_bottombar.xml
+END
+main_tabhost_tab_d.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/work/dlna/!svn/ver/53/youplayer/res/layout/main_tabhost_tab_d.xml
+END
+more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/work/dlna/!svn/ver/88/youplayer/res/layout/more.xml
+END
+share.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/81/youplayer/res/layout/share.xml
+END
+youplayer_fullplayer_more_view.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_fullplayer_more_view.xml
+END
+wifiset.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/work/dlna/!svn/ver/53/youplayer/res/layout/wifiset.xml
+END
+youplayer_notifyview.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/work/dlna/!svn/ver/22/youplayer/res/layout/youplayer_notifyview.xml
+END
+music_play_list_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/work/dlna/!svn/ver/53/youplayer/res/layout/music_play_list_item.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/work/dlna/!svn/ver/22/youplayer/res/layout/test.xml
+END

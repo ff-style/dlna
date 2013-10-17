@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item
+END
+Movie.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/Movie.java
+END
+MusicVideoClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/MusicVideoClip.java
+END
+AudioItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/AudioItem.java
+END
+PlaylistItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/PlaylistItem.java
+END
+ImageItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/ImageItem.java
+END
+TextItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/TextItem.java
+END
+AudioBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/AudioBroadcast.java
+END
+MusicTrack.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/MusicTrack.java
+END
+VideoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/VideoItem.java
+END
+Photo.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/Photo.java
+END
+VideoBroadcast.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/VideoBroadcast.java
+END
+AudioBook.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/AudioBook.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/item/Item.java
+END

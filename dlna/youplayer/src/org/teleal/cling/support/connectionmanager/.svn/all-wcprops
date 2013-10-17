@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager
+END
+ConnectionManagerErrorCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/ConnectionManagerErrorCode.java
+END
+AbstractPeeringConnectionManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/AbstractPeeringConnectionManagerService.java
+END
+ConnectionManagerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/ConnectionManagerException.java
+END
+ConnectionManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/ConnectionManagerService.java
+END

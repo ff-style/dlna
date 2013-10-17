@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.youplayer.player.AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fone="http://schemas.android.com/apk/res/com.youplayer.player"
+    android:id="@+id/fone_explorer"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+<!-- 
+    <include
+        android:id="@+id/left_menu"
+        layout="@layout/left_container" />
+
+    <include
+        android:id="@+id/right_menu"
+        layout="@layout/right_container" />
+ -->
+    <com.youplayer.player.frame.YouPlayerContainerView
+        android:id="@+id/container_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/youplayer_bg" />
+<!-- 
+    <ImageView
+        android:layout_width="12dp"
+        android:layout_height="fill_parent"
+        fone:layout_toLeftOf="@+id/container_layout"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/drop_shadow_left" />
+
+    <ImageView
+        android:layout_width="12dp"
+        android:layout_height="fill_parent"
+        fone:layout_toRightOf="@+id/container_layout"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/drop_shadow_right" />
+ -->
+</com.youplayer.player.AbsoluteLayout>

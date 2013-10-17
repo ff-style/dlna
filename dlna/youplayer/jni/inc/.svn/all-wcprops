@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/work/dlna/!svn/ver/49/youplayer/jni/inc
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/work/dlna/!svn/ver/49/youplayer/jni/inc/.DS_Store
+END
+player_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_mem.h
+END
+player_jni.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_jni.h
+END
+player_media_player_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_media_player_engine.h
+END
+player_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_log.h
+END
+player_platform_file_sys.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_platform_file_sys.h
+END
+player_platform_mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_platform_mem.h
+END
+player_player_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_player_stream.h
+END
+player_player_subtitle.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_player_subtitle.h
+END
+universalchardet.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/work/dlna/!svn/ver/49/youplayer/jni/inc/universalchardet.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/work/dlna/!svn/ver/49/youplayer/jni/inc/md5.h
+END
+player_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_std.h
+END
+player_media_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/49/youplayer/jni/inc/player_media_player.h
+END
+app_socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/inc/app_socket.h
+END

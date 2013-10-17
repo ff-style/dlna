@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/callback
+END
+PrepareForConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/callback/PrepareForConnection.java
+END
+ConnectionComplete.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/callback/ConnectionComplete.java
+END
+GetProtocolInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/callback/GetProtocolInfo.java
+END
+GetCurrentConnectionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/connectionmanager/callback/GetCurrentConnectionInfo.java
+END

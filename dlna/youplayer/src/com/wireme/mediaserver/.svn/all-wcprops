@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/work/dlna/!svn/ver/39/youplayer/src/com/wireme/mediaserver
+END
+ContentDirectoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/com/wireme/mediaserver/ContentDirectoryService.java
+END
+ContentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/work/dlna/!svn/ver/37/youplayer/src/com/wireme/mediaserver/ContentNode.java
+END
+HttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/work/dlna/!svn/ver/37/youplayer/src/com/wireme/mediaserver/HttpServer.java
+END
+MediaServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/work/dlna/!svn/ver/39/youplayer/src/com/wireme/mediaserver/MediaServer.java
+END
+ContentTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/work/dlna/!svn/ver/39/youplayer/src/com/wireme/mediaserver/ContentTree.java
+END

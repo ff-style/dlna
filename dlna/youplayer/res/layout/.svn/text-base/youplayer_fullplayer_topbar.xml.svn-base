@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:visibility="invisible">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/youplayer_fullplayer_top_bg"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="6" >
+
+            <TextView
+                android:id="@+id/fullplayer_top_sys_decode_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:focusable="false"
+                android:paddingLeft="@dimen/fullplayer_top_sys_decode_type_paddingleft"
+                android:singleLine="true"
+                android:textColor="@color/white_background"
+                android:textSize="@dimen/fullplayer_btm_text_video_name_textsize" />
+
+            <TextView
+                android:id="@+id/fullplayer_btm_media_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:focusable="true"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:textColor="@color/white_background"
+                android:textSize="@dimen/fullplayer_btm_text_video_name_textsize" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="4"
+            android:gravity="right" >
+
+            <TextView
+                android:id="@+id/fullplayer_btm_play_state"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:ellipsize="end"
+                android:focusable="false"
+                android:singleLine="true"
+                android:textColor="@color/white_background"
+                android:textSize="@dimen/fullplayer_btm_text_play_state_textsize" />
+
+            <TextView
+                android:id="@+id/fullplayer_top_sys_time_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginLeft="@dimen/fullplayer_top_margin"
+                android:focusable="false"
+                android:singleLine="true"
+                android:textSize="@dimen/fullplayer_top_sys_time_textsize" />
+
+            <ImageView
+                android:id="@+id/fullplayer_top_imgv_battery"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginLeft="@dimen/fullplayer_top_margin"
+                android:src="@drawable/youplayer_fullplayer_battery_10" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/fullplayer_top_url_panel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:background="@drawable/youplayer_bg_web_fullscreen">
+
+        <TextView
+            android:id="@+id/fullplayer_top_url"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/fullplayer_top_url_button"
+            android:layout_centerVertical="true"
+            android:focusable="false"
+            android:paddingLeft="@dimen/fullplayer_top_sys_decode_type_paddingleft"
+            android:singleLine="true"
+            android:textColor="@color/white_background"
+            android:textSize="@dimen/fullplayer_btm_text_video_name_textsize" />
+        <Button 
+            android:id="@+id/fullplayer_top_url_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/youplayer_btn_backweb_fullscreen"
+            android:layout_margin="3dip"
+            android:textSize="12sp"
+            android:textColor="@android:color/white"
+            android:shadowDx="0"
+            android:shadowDy="1"
+            android:shadowRadius="1"
+            android:text="@string/full_player_original_url"/>
+    </RelativeLayout>
+
+</LinearLayout>

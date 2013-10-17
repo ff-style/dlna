@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/work/dlna/!svn/ver/56/youplayer/libs
+END
+teleal-common-1.0.13.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/37/youplayer/libs/teleal-common-1.0.13.jar
+END
+dlna_framework.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/work/dlna/!svn/ver/22/youplayer/libs/dlna_framework.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/work/dlna/!svn/ver/22/youplayer/libs/xercesImpl.jar
+END
+kxml2-min-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/work/dlna/!svn/ver/22/youplayer/libs/kxml2-min-2.3.0.jar
+END
+cling-core-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/work/dlna/!svn/ver/37/youplayer/libs/cling-core-1.0.3.jar
+END
+android-support-v4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/work/dlna/!svn/ver/29/youplayer/libs/android-support-v4.jar
+END

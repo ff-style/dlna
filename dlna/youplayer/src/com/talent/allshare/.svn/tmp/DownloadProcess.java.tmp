@@ -1,0 +1,119 @@
+package com.talent.allshare;
+
+
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
+
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.DialogInterface.OnClickListener;
+import android.content.DialogInterface.OnDismissListener;
+import android.util.Log;
+
+import com.talent.allshare.downloader.DownlaodStateListener.OnDownloadFinishedListener;
+import com.talent.allshare.downloader.DownlaodStateListener.OnDownloadStartedListener;
+import com.talent.allshare.downloader.DownlaodStateListener.OnProgressUpdateListener;
+import com.talent.allshare.downloader.DownloadFileAsync;
+import com.youplayer.player.R;
+import com.youplayer.player.YouApplication;
+
+
+public class DownloadProcess {
+	private Context mActivity;
+	private ProgressDialog mProgressDialog;
+	private boolean bvsibledialog=true;
+	
+	public DownloadProcess(Context activity) {
+		mActivity = activity;
+	}
+
+	public DownloadProcess(Context activity, boolean vsibledialog) {
+		mActivity = activity;
+		bvsibledialog=vsibledialog;
+	}
+	public String decodeUri(String uri) {
+		String newUri = "";
+		try {
+			newUri = URLDecoder.decode(uri, "utf-8");
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+		}
+		return newUri;
+	}
+
+	public void startDownload(final String fileName, final String downloadUrl) {
+
+		Log.i("app", "startDownload + " + YouApplication.getInstance());
+		final DownloadFileAsync downloader = new DownloadFileAsync(
+				mActivity, fileName, downloadUrl,YouApplication.getInstance().notification);
+		downloader
+				.setOnDownloadStartedListener(new OnDownloadStartedListener() {
+					@Override
+					public void onDownloadStarted(String fileName,
+							String downloadUrl, int startProgress) {
+						if(bvsibledialog) {
+								mProgressDialog = new ProgressDialog(mActivity);
+								mProgressDialog.setMessage("Downloading file...");
+								mProgressDialog.setIndeterminate(false);
+								mProgressDialog.setMax(100);
+								mProgressDialog
+										.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
+								mProgressDialog.setCancelable(true);
+								mProgressDialog.setButton(mActivity.getResources().getString(R.string.down_bg), new OnClickListener() {
+									
+									@Override
+									public void onClick(DialogInterface dialog, int which) {
+										
+									}
+								});
+								mProgressDialog.setButton2(mActivity.getResources().getString(R.string.down_cancle), new OnClickListener() {
+									
+									@Override
+									public void onClick(DialogInterface dialog, int which) {
+										downloader.stopDownload();
+									}
+								});
+								mProgressDialog.show();
+								mProgressDialog.setMessage("downloading " + fileName);
+								mProgressDialog.setProgress(startProgress);
+								mProgressDialog
+										.setOnDismissListener(new OnDismissListener() {
+											@Override
+											public void onDismiss(DialogInterface dialog) {
+												// TODO Auto-generated method stub
+												//stop download when finish
+//												downloader.stopDownload();
+											}
+										});
+						}
+					}
+				});
+		downloader.setOnProgressUpdateListener(new OnProgressUpdateListener() {
+			@Override
+			public void onProgressUpdate(String fileName, String downloadUrl,
+					int progress) {
+				if(bvsibledialog) {
+					mProgressDialog.setMessage("downloading " + fileName);
+					Log.i("downloadprocess", "setProgress : " + progress );
+
+					mProgressDialog.setProgress(progress);
+//					updateActiveNotification
+				}
+			}
+		});
+		downloader
+				.setOnDownloadFinishedListener(new OnDownloadFinishedListener() {
+					@Override
+					public void onDownloadFinished(String fileName,
+							String downloadUrl, boolean isFinish) {
+					if(bvsibledialog) {
+						mProgressDialog.dismiss();
+					}
+						
+					}
+				});
+
+		downloader.execute(fileName, downloadUrl);
+	}
+}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/work/dlna/!svn/ver/56/youplayer/jni/src
+END
+.DS_Store
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/work/dlna/!svn/ver/49/youplayer/jni/src/.DS_Store
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/work/dlna/!svn/ver/49/youplayer/jni/src/md5.c
+END
+app_socket.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/src/app_socket.c
+END
+imyplayer-jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/work/dlna/!svn/ver/56/youplayer/jni/src/imyplayer-jni.c
+END
+macrodisk.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/work/dlna/!svn/ver/56/youplayer/jni/src/macrodisk.c
+END
+player_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/work/dlna/!svn/ver/49/youplayer/jni/src/player_log.c
+END

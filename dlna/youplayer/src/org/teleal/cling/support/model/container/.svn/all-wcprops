@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container
+END
+Album.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/Album.java
+END
+MovieGenre.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/MovieGenre.java
+END
+StorageFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/StorageFolder.java
+END
+MusicAlbum.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/MusicAlbum.java
+END
+MusicGenre.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/MusicGenre.java
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/Container.java
+END
+GenreContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/GenreContainer.java
+END
+PlaylistContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/PlaylistContainer.java
+END
+MusicArtist.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/MusicArtist.java
+END
+PersonContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/PersonContainer.java
+END
+StorageSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/StorageSystem.java
+END
+PhotoAlbum.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/PhotoAlbum.java
+END
+StorageVolume.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/container/StorageVolume.java
+END

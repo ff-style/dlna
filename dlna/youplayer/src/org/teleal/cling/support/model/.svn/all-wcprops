@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/Connection.java
+END
+ProtocolInfos.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/ProtocolInfos.java
+END
+BrowseResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/BrowseResult.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/Protocol.java
+END
+DIDLObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/DIDLObject.java
+END
+SortCriterion.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/SortCriterion.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/Person.java
+END
+DIDLContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/DIDLContent.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/Channel.java
+END
+DeviceCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/DeviceCapabilities.java
+END
+PlayMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/PlayMode.java
+END
+TransportSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/TransportSettings.java
+END
+PersonWithRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/PersonWithRole.java
+END
+DescMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/DescMeta.java
+END
+Res.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/Res.java
+END
+TransportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/TransportAction.java
+END
+BrowseFlag.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/BrowseFlag.java
+END
+MediaInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/MediaInfo.java
+END
+SeekMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/SeekMode.java
+END
+WriteStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/WriteStatus.java
+END
+TransportStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/TransportStatus.java
+END
+DIDLAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/DIDLAttribute.java
+END
+PortMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/PortMapping.java
+END
+PresetName.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/PresetName.java
+END
+StorageMedium.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/StorageMedium.java
+END
+TransportInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/TransportInfo.java
+END
+ConnectionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/ConnectionInfo.java
+END
+ProtocolInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/ProtocolInfo.java
+END
+PositionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/PositionInfo.java
+END
+AVTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/AVTransport.java
+END
+VolumeDBRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/VolumeDBRange.java
+END
+RecordQualityMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/RecordQualityMode.java
+END
+TransportState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/TransportState.java
+END
+RecordMediumWriteStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/work/dlna/!svn/ver/37/youplayer/src/org/teleal/cling/support/model/RecordMediumWriteStatus.java
+END

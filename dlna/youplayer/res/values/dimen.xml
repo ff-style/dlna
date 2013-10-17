@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fullplayer_top_imgb_margin_right">150px</dimen>
+    <dimen name="fullplayer_btm_seekbar_max_height">12px</dimen>
+    <dimen name="fullplayer_btm_seekbar_min_height">12px</dimen>
+    <dimen name="fullplayer_btm_seekbar_margin_left">15px</dimen>
+    <dimen name="fullplayer_btm_seekbar_margin_right">15px</dimen>
+    <dimen name="fullplayer_top_imgv_battery_bg_marginTop">7dip</dimen>
+    <dimen name="fullplayer_top_imgv_battery_bg_paddingsize">9dip</dimen>
+    <dimen name="fullplayer_top_sys_time_textsize">14dip</dimen>
+    <dimen name="fullplayer_top_margin">6dip</dimen>
+    <dimen name="fullplayer_top_sys_decode_type_paddingleft">4dip</dimen>
+    <dimen name="fullplayer_top_sys_time_text_marginTop">4dip</dimen>
+    <dimen name="fullplayer_top_sys_time_text_paddingsize">14dip</dimen>
+    <dimen name="fullplayer_btm_text_video_name_textsize">14dip</dimen>
+    <dimen name="fullplayer_btm_text_video_name_marginleft">7dip</dimen>
+    <dimen name="fullplayer_btm_text_play_state_textsize">14dip</dimen>
+    <dimen name="fullplayer_btm_text_play_state_marginright">7dip</dimen>
+    <dimen name="fullplayer_btm_text_time_textsize">14dip</dimen>
+    <dimen name="fullplayer_full_audio_textview_width">150dip</dimen>
+    <dimen name="fullplayer_bar_text_audio_album_value_paddingsize">34dip</dimen>
+    <dimen name="fullplayer_bar_text_audio_singer_paddingsize">0dip</dimen>
+    <dimen name="fullplayer_bar_text_audio_singer_value_paddingsize">34dip</dimen>
+    <dimen name="fullplayer_full_bottom_name_textview_width">320dip</dimen>
+    <dimen name="fullplayer_full_time_text_width">100dip</dimen>
+    <dimen name="fullplayer_top_bar_right_margin">50dip</dimen>
+    <dimen name="fullplayer_full_bottom_button_group_layoutheight">85dip</dimen>
+    <dimen name="fullplayer_bar_text_audio_file_value">12dip</dimen>
+    <dimen name="fullplayer_bar_bar_text_audio_album">10dip</dimen>
+    <dimen name="fullplayer_bar_bar_text_lyric">18dip</dimen>
+    <dimen name="fullplayer_full_ad_pos_width">678px</dimen>
+    <dimen name="fullplayer_full_ad_pos_height">283px</dimen>
+    <dimen name="fullplayer_full_sound_bright_margin_left">30px</dimen>
+    <dimen name="fullplayer_full_lock_top">7dip</dimen>
+    <dimen name="fullplayer_full_lock_text_size">14dip</dimen>
+    <dimen name="fullplayer_full_bottom_btn_width">0dip</dimen>
+    <dimen name="fullplayer_full_more_margin_top">8dip</dimen>
+
+    <!-- <dimen name="away_from_edge">80dip</dimen> -->
+    <dimen name="left_title_text_size">14sp</dimen>
+    <dimen name="left_list_text_size">18sp</dimen>
+    <dimen name="right_list_text_size">18sp</dimen>
+    <dimen name="right_title_text_size">22sp</dimen>
+    <dimen name="fullplayer_tips_top_margin">50dip</dimen>
+
+    <!-- 左菜单 -->
+    <dimen name="menulist_margin_right">12dip</dimen>
+    <dimen name="menulist_icon_size">24dip</dimen>
+    <dimen name="menulist_padding_container">12dip</dimen>
+    <dimen name="left_menu_title_height">58dip</dimen>
+    <dimen name="left_menu_icon_margin_left">60dip</dimen>
+    <dimen name="fling_width">267dip</dimen>
+    <dimen name="list_padding_left_container">60dip</dimen>
+    
+    <!-- 设置页 -->
+    <dimen name="settings_top_height">44dip</dimen>
+    <dimen name="settings_function_text_height">40dip</dimen>
+    <dimen name="settings_top_padding">15dip</dimen>
+    <dimen name="settings_setting_text">20dp</dimen>
+    <dimen name="settings_text_top">10dip</dimen>
+    <dimen name="settings_function_text_paddingleft">25dip</dimen>
+    <dimen name="settings_rl_padding">2dip</dimen>
+    <dimen name="settings_rl_margin">5dip</dimen>
+    <dimen name="settings_cb_h">45dip</dimen>
+    <dimen name="settings_cb_w">45dip</dimen>
+    <dimen name="settings_lv_text_size">17dp</dimen>
+    <dimen name="settings_tv_margin">15dip</dimen>
+    <dimen name="settings_width">300dip</dimen>
+    <dimen name="settings_height">280dip</dimen>
+    <dimen name="about_fone_size">20dp</dimen>
+    <dimen name="about_fone_pad">10dip</dimen>
+    <dimen name="weibo_tips_size">14sp</dimen>
+    <dimen name="weibo_padding_left">10dp</dimen>
+    <dimen name="feedback_text_paddingleft">15dip</dimen>
+    <dimen name="feedback_btn_size">120dip</dimen>
+    <!-- 离线缓存 -->
+    <dimen name="download_top_text_size">20sp</dimen>
+    <dimen name="download_topbar_text_size">16sp</dimen>
+    <dimen name="download_top_left_padding">5dip</dimen>
+    <dimen name="download_top_height">44dip</dimen>
+    <dimen name="downloaded_file_info_name_size">18sp</dimen>
+    <dimen name="downloaded_file_info_testsize">12sp</dimen>
+    <dimen name="downloading_file_info_name_size">18sp</dimen>
+    <dimen name="downloading_file_info_testsize">12sp</dimen>
+
+    <!-- 本地媒体 -->
+    <dimen name="list_file_image_height">73dip</dimen>
+    <dimen name="list_file_image_width">93dip</dimen>
+    <dimen name="list_file_item_height">73dip</dimen>
+    <dimen name="list_file_icon_layoutwidth_audio">62dip</dimen>
+    <dimen name="list_file_icon_layoutwidth_video">92dip</dimen>
+    <dimen name="list_file_icon_layoutheight">62dip</dimen>
+    <dimen name="list_file_info_name_size">16sp</dimen>
+    <dimen name="list_file_info_testsize">12sp</dimen>
+    <dimen name="list_file_topbar_text_size">13sp</dimen>
+    <dimen name="list_file_topbar_top_padding">4dip</dimen>
+    <dimen name="list_file_item_space_size1">7sp</dimen>
+    <dimen name="list_file_item_space_size2">7sp</dimen>
+    <dimen name="list_file_item_space_size3">3sp</dimen>
+    <dimen name="list_file_linearlayout_paddingTop">4dip</dimen>
+    <dimen name="list_file_top_left_padding">5dip</dimen>
+    <dimen name="list_file_item_between_icon_and_name">11dip</dimen>
+
+    <!-- 播放记录 -->
+    <dimen name="records_file_item_height">70dip</dimen>
+    <dimen name="records_file_info_name_size">16sp</dimen>
+    <dimen name="records_file_info_testsize">14sp</dimen>
+    <dimen name="records_file_item_space_size">8dp</dimen>
+    <dimen name="records_top_clean_all_right">5dip</dimen>
+
+    <!-- 我的收藏 -->
+    <dimen name="mycollent_file_info_name_size">18sp</dimen>
+    <dimen name="mycollent_file_info_size1">12sp</dimen>
+    <dimen name="mycollent_file_linearlayout_margin_left">11dip</dimen>
+    <dimen name="mycollent_file_linearlayout_margin_top1">7dip</dimen>
+    <dimen name="mycollent_file_linearlayout_margin_top2">8dip</dimen>
+    <dimen name="mycollent_file_linearlayout_margin">30dip</dimen>
+    <dimen name="mycollent_file_item_space_size2">2dp</dimen>
+    <dimen name="mycollent_file_spinner_icon_padding">5dp</dimen>
+    <dimen name="mycollent_file_spinner_textview_width">133dp</dimen>
+    <dimen name="mycollent_file_icon_layoutwidth">61dip</dimen>
+    <dimen name="mycollent_file_icon_layoutheight">88dip</dimen>
+    <dimen name="mycollent_file_icon_layoutheight1">91dip</dimen>
+    <dimen name="mycollent_file_spineer_height">32dip</dimen>
+    <dimen name="mycollent_file_spineer_textsize">16sp</dimen>
+    <dimen name="list_file_item_space_size4">12dip</dimen>
+    <dimen name="mycollent_file_spinner_popwindow_padding_right">9dp</dimen>
+
+    <!-- 软件推荐 -->
+    <dimen name="view_recommend_detail_boundary_paddingtop">20dip</dimen>
+    <dimen name="view_recommend_detail_boundary_paddingleft">36dip</dimen>
+    <dimen name="view_recommend_detail_boundary_paddingright">36dip</dimen>
+    <dimen name="view_recommend_detail_icon_width">54dip</dimen>
+    <dimen name="view_recommend_detail_icon_height">54dip</dimen>
+    <dimen name="view_recommend_detail_title_textsize">21sp</dimen>
+    <dimen name="view_recommend_detail_title_paddingleft">20dip</dimen>
+    <dimen name="view_recommend_detail_title_paddingright">20dip</dimen>
+    <dimen name="view_recommend_detail_description_textsize">14sp</dimen>
+    <dimen name="view_recommend_detail_description_paddingtop">22dip</dimen>
+    <dimen name="view_recommend_detail_description_height">94dip</dimen>
+    <dimen name="view_recommend_detail_button_paddingtop">22dip</dimen>
+    <dimen name="view_recommend_detail_button_height">40dip</dimen>
+    <dimen name="list_recommend_item_paddingleft">5dip</dimen>
+    <dimen name="list_recommend_item_margin">5dip</dimen>
+    <dimen name="download_finished_marginTop">15dip</dimen>
+    <dimen name="download_finished_paddingTop">0dip</dimen>
+    <dimen name="view_recommend_tab_recommend_0_marginLeft">1dip</dimen>
+    <dimen name="view_recommend_tab_recommend_1_marginLeft">0dip</dimen>
+    <dimen name="view_recommend_tab_recommend_2_marginRight">1dip</dimen>
+    <dimen name="list_recommend_icon_layoutwidth">70dip</dimen>
+    <dimen name="list_recommend_icon_layoutheight">70dip</dimen>
+    <dimen name="list_recommend_text_paddingleft">12dip</dimen>
+    <dimen name="list_recommend_text_paddingright">10dip</dimen>
+    <dimen name="list_recommend_name_textsize">16sp</dimen>
+    <dimen name="list_recommend_detail_textsize">12sp</dimen>
+
+    <!-- nitification -->
+    <dimen name="notification_recommend_paddingtop">8dip</dimen>
+    <dimen name="notification_recommend_paddingleft">8dip</dimen>
+    <dimen name="notification_recommend_paddingright">8dip</dimen>
+    <dimen name="notification_recommend_iconsize">26dip</dimen>
+    <dimen name="notification_download_finish_linearlayout_paddingleft">12dip</dimen>
+    <dimen name="notification_download_finish_title_textsize">16sp</dimen>
+    <dimen name="notification_download_finish_tip_textsize">14sp</dimen>
+    <dimen name="notification_download_linearlayout_paddingleft">5dip</dimen>
+    <dimen name="notification_download_linearlayout_paddingtop">4dip</dimen>
+    <dimen name="notification_download_text_paddingtop">2dip</dimen>
+    <dimen name="notification_download_title_textsize">16sp</dimen>
+    <dimen name="notification_download_text_textsize">14sp</dimen>
+    <dimen name="notification_download_tip_textsize">12sp</dimen>
+    <dimen name="notification_download_tip_paddingleft">1dip</dimen>
+    <dimen name="notification_download_progressbar_width">240dip</dimen>
+    <dimen name="notification_download_progressbar_height">20dip</dimen>
+    <dimen name="notification_download_progressbar_paddingtop">6dip</dimen>
+    <dimen name="notification_item_top_padding">15dip</dimen>
+    <dimen name="notification_item_padding_left">10dip</dimen>
+    <dimen name="notification_item_layout_marginRight">5dip</dimen>
+    <dimen name="notification_item_layout_marginTop">5dip</dimen>
+	<dimen name="notification_item_name_width">155dip</dimen>
+	
+    <!-- title -->
+    <dimen name="title_padding">5dip</dimen>
+    <dimen name="title_textview_height">44dip</dimen>
+    <dimen name="title_max_width">150dip</dimen>
+    <dimen name="title_text_size">17sp</dimen>
+    <dimen name="title_text_marginTop">-10dip</dimen>
+    <dimen name="rcommend_title_text_size">15sp</dimen>
+
+    <!-- 在线栏目 -->
+    <dimen name="xlist_dividerHeight">2dip</dimen>
+    <dimen name="online_grid_item_image_width">93dip</dimen>
+    <dimen name="online_grid_item_image_height">132dip</dimen>
+    <dimen name="online_grid_item_image_padding">4dip</dimen>
+    <dimen name="online_grid_item_text_size">12sp</dimen>
+    <dimen name="online_grid_layout_padding">4dip</dimen>
+    <dimen name="online_grid_horizontal_spacing">4dip</dimen>
+    <dimen name="online_grid_layout_height">150dip</dimen>
+    <dimen name="online_list_item_image_width">65dip</dimen>
+    <dimen name="online_list_item_image_height">93dip</dimen>
+    <dimen name="online_list_item_detail_padding_left">7dip</dimen>
+    <dimen name="online_list_item_multiple_padding">10dip</dimen>
+    <dimen name="online_list_item_multiple_margin_right">5dip</dimen>
+    <dimen name="online_list_item_type_width">80dip</dimen>
+    <dimen name="online_list_item_source_max_width">40dip</dimen>
+    <dimen name="online_list_item_title_padding_top">7dip</dimen>
+    <dimen name="online_list_item_title_padding_bottom">7dip</dimen>
+    <dimen name="online_list_item_text_padding">2dip</dimen>
+    <dimen name="online_list_item_rate_margin_right">10dip</dimen>
+    <dimen name="online_list_item_rate_padding_right">2dip</dimen>
+    <dimen name="online_list_item_title_text_size">18sp</dimen>
+    <dimen name="online_list_item_detail_text_size">12sp</dimen>
+    <dimen name="online_list_item_text_size">13sp</dimen>
+    
+
+
+    <!-- spinner_list_view -->
+    <dimen name="spinner_padding">5dip</dimen>
+    <dimen name="spinner_layout_width">150dip</dimen>
+    <dimen name="spinner_marginLeft">12dip</dimen>
+
+    <!-- 首页精选 -->
+    <dimen name="poster_view_pager_height">120dip</dimen>
+    <dimen name="poster_roll_layout_height">24dip</dimen>
+    <dimen name="poster_roll_layout_margin_top">-24dip</dimen>
+    <dimen name="poster_roll_dto_padding">3dip</dimen>
+    <dimen name="online_poster_page_poster_button_rl_height">30dip</dimen>
+    <dimen name="online_poster_page_poster_button_margin_left_or_right">15dip</dimen>
+    <dimen name="online_poster_page_poster_button_margin_top">-270dip</dimen>
+    <dimen name="online_poster_page_collect_ib_margin_left">80dip</dimen>
+    <dimen name="online_poster_page_margin_left">30dip</dimen>
+    <dimen name="online_poster_page_share_bt_height">50dip</dimen>
+    <dimen name="online_poster_page_share_bt_marginLeft">23dip</dimen>
+    <dimen name="online_poster_page__play_layout_marginLeft">25dip</dimen>
+    <dimen name="online_poster_page__play_layout_marginTop">-18dip</dimen>
+    <dimen name="online_poster_page_relative2_layout_margin">10dip</dimen>
+    <dimen name="online_poster_page_relative2_layout_margin_top">20dip</dimen>
+    <dimen name="online_poster_page_poster_name_margin_left">15dip</dimen>
+    <dimen name="online_poster_page_poster_name_margin_top">8dip</dimen>
+    <dimen name="online_poster_page_poster_name_textSize">18sp</dimen>
+    <dimen name="online_poster_page_poster_content_textSize">12sp</dimen>
+    <dimen name="online_poster_page_relative_margin_left">5dip</dimen>
+    <dimen name="online_poster_page_poster_content_marginTop">5dip</dimen>
+    <dimen name="online_poster_page_poster_content_marginBottom">10dip</dimen>
+    <dimen name="online_poster_page_poster_content_marginLeft">15dip</dimen>
+    <dimen name="online_poster_page_poster_content_marginRight">10dip</dimen>
+    
+
+    <!-- 扩展按钮 popupwindow -->
+    <dimen name="popup_menu_button_padding">10dip</dimen>
+    <dimen name="popup_menu_button_margin_left">15dip</dimen>
+    <dimen name="popup_menu_button_margin_right">15dip</dimen>
+    <dimen name="popup_menu_arrow_margin_top">1dip</dimen>
+    <dimen name="popup_menu_button_margin_bottom">5dip</dimen>
+
+    <!-- 切换视图 popupwindow -->
+    <dimen name="popup_swtichview_image_margin_left">15dip</dimen>
+    <dimen name="popup_swtichview_image_margin_right">15dip</dimen>
+    <dimen name="popup_swtichview_text_size">15sp</dimen>
+
+    <!-- 在线栏目详情页 -->
+    <dimen name="online_detail_info_text_size">14sp</dimen>
+    <dimen name="online_detail_desc_text_size">13sp</dimen>
+    <dimen name="online_detail_item_text_size">12sp</dimen>
+    <dimen name="online_detail_tab_text_size">16sp</dimen>
+    <dimen name="online_detail_event_title_text_size">20sp</dimen>
+    <dimen name="online_detail_event_desc_text_size">16sp</dimen>
+    <dimen name="online_detail_event_title_margin_bottom">20dip</dimen>
+    <dimen name="online_detail_item_image_width">95dip</dimen>
+    <dimen name="online_detail_item_image_height">135dip</dimen>
+    <dimen name="online_detail_padding_left">16dip</dimen>
+    <dimen name="online_detail_gridview_spacing">8dip</dimen>
+    <dimen name="online_detail_padding">12dip</dimen>
+    <dimen name="online_detail_base_info_padding">13dip</dimen>
+    <dimen name="online_detail_tab_margin_left">27dip</dimen>
+    <dimen name="online_pay_detail_tab_margin_left">17dip</dimen>
+    <dimen name="online_detail_tab_padding">3dip</dimen>
+    <dimen name="online_detail_expand_padding_top">15dip</dimen>
+    <dimen name="online_list_divider_height">1dip</dimen>
+    <dimen name="online_list_item_icon_text_size">12sp</dimen>
+    <dimen name="online_list_item_quality_text_size">10sp</dimen>
+    <dimen name="online_grid_item_play_layout_height">27dip</dimen>
+    <dimen name="online_popup_cache_gridview_spacing">20dip</dimen>
+    <dimen name="online_popup_cache_button_margin">10dip</dimen>
+    <dimen name="online_popup_cache_gridview_layout_height">200dip</dimen>
+    <dimen name="online_detail_from_list_padding_top">18dip</dimen>
+    <dimen name="online_detail_still_grid_image_height">96dip</dimen>
+     
+
+    <!-- 在线标签 -->
+    <dimen name="online_lable_item_layout_height">22dip</dimen>
+    <dimen name="online_lable_lable_padding_top">5dip</dimen>
+    <dimen name="online_lable_lable_padding_bottom">5dip</dimen>
+    <dimen name="online_lable_gridView_marginRight">50dip</dimen>
+    <dimen name="online_lable_gridView_marginLeft">11dip</dimen>
+    <dimen name="online_lable_gridView_horizontalSpacing">10dip</dimen>
+    <dimen name="online_lable_gridView_verticalSpacing">12dip</dimen>
+    <dimen name="online_lable_marginTop">-2.5dip</dimen>
+    <dimen name="online_lable_lable_iv_width">50dip</dimen>
+    <dimen name="online_lable_lable_btn_marginTop">-23dip</dimen>
+    <dimen name="online_lable_item_text_size">14sp</dimen>
+    <dimen name="online_lable_item_padding_top_bottom">2dip</dimen>
+    <dimen name="online_lable_item_padding_left_right">5dip</dimen>
+
+    <!-- 影视分类 -->
+    <dimen name="online_listview_paddingTop">36dip</dimen>
+
+    <!-- netwook_error -->
+    <dimen name="network_error_paddingBottom">45dip</dimen>
+    <dimen name="network_error_textSize">16sp</dimen>
+
+    <!-- 在线搜索 -->
+    <dimen name="online_search_item_padding">10dip</dimen>
+    <dimen name="online_search_padding">10dip</dimen>
+    <dimen name="online_search_btn_margin">5dip</dimen>
+    <dimen name="online_search_text_size">15sp</dimen>
+    <dimen name="online_search_item_text_size">12sp</dimen>
+    <dimen name="online_search_sort_marginLeft">5dip</dimen>
+    <dimen name="online_search_sort_gv_height">200dip</dimen>
+    <dimen name="online_search_gridview_Spacing">10dip</dimen>
+    <dimen name="online_search_sort_gridview_padding">5dip</dimen>
+    <dimen name="online_search_history_sort_marginLeft">5dip</dimen>
+    <dimen name="online_search_history_sort_marginRight">15dip</dimen>
+    <dimen name="online_search_history_sort_height">220dip</dimen>
+    <dimen name="online_search_history_sort_padding">10dip</dimen>
+
+    <!-- 搜索结果页 -->
+    <dimen name="online_search_result_empty_padding_left_right">10dip</dimen>
+    <dimen name="online_search_result_empty_padding_top">50dip</dimen>
+    <dimen name="online_search_result_empty_text_size">18sp</dimen>
+    <!-- loading page  -->
+    <dimen name="loading_marginbottom">13dip</dimen>
+    
+    <!-- WebView -->
+    <dimen name="webview_back_left_margin">6.7dip</dimen>
+    <dimen name="webview_back_left_margin2">13.3dip</dimen>
+    <dimen name="webview_title_layout_width">293.3dip</dimen>
+    <dimen name="webview_title_layout_height">37.3dip</dimen>
+    <dimen name="webview_toolbar_title_height">26.6dip</dimen>
+    <dimen name="webview_toolbar_layout_height">74.6dip</dimen>
+    <dimen name="webview_title_layout_textsize">12sp</dimen>
+    <dimen name="webview_margin_left_or_right">28dip</dimen>
+    <dimen name="webview_toolbar_button_margin_buttom">5.3dip</dimen>
+    <dimen name="webview_toolbar_button_height">42.6dip</dimen>
+    
+    <!-- airone  -->
+    
+    <dimen name="airone_list_item_height">100dip</dimen>
+</resources>

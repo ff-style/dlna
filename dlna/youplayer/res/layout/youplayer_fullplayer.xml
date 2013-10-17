@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:background="@color/fullplayer_background">
+<!-- 
+    <include
+        android:id="@+id/fullplayer_video_layout"
+        layout="@layout/youplayer_fullplayer_video" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"/>   
+     -->
+     
+     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+  
+    android:scaleType="fitXY">
+    
+	    <com.youplayer.player.fullplayer.YouPlayerSurfaceView android:id="@+id/fullplayer_surface_view_system"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	  />
+	    <com.youplayer.player.fullplayer.YouPlayerSurfaceView android:id="@+id/fullplayer_surface_view_fone"
+	        android:layout_width="wrap_content" android:layout_height="wrap_content"
+	        android:layout_centerInParent="true"
+	        />
+         
+        <com.youplayer.player.fullplayer.YouPlayerSubtitleView  
+           android:layout_height="wrap_content"
+           android:layout_width="wrap_content"
+           android:id="@+id/fullplayer_subtitle_view" />
+</RelativeLayout>
+   
+    <include
+        android:id="@+id/fullplayer_audio_layout"
+        layout="@layout/youplayer_fullplayer_audio" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"/>
+   <include
+        android:id="@+id/fullplayer_radio_layout"
+        layout="@layout/youplayer_fullplayer_radio" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_centerVertical="true"/>
+   <!-- 
+      <include
+        android:id="@+id/fullplayer_airone_layout"
+        layout="@layout/fullplayer_airone" 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#222222"
+        android:layout_centerVertical="true"
+        android:layout_above="@+id/fullplayer_bottombar"/>
+       -->
+  <RelativeLayout android:id="@+id/full_logo_bg"
+		android:layout_width="fill_parent"
+		android:background="@color/fullplayer_background"
+		android:layout_height="fill_parent" android:scaleType="fitXY">
+    <ImageView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="center"
+        android:id="@+id/full_video_logo"
+        >
+    </ImageView>  
+    </RelativeLayout>                 
+    <com.youplayer.player.YouGestureOverlayView
+        android:id="@+id/full_surface_gesture" android:gestureStrokeType="single"
+        android:gestureColor="@color/view_gesture_color"
+        android:uncertainGestureColor="@color/view_gesture_uncertain_color"
+        android:orientation="vertical" android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+    <!--                       
+	<include 
+	    android:id="@+id/fullplayer_topbar" 
+	    layout="@layout/youplayer_fullplayer_topbar" 
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content" 
+	    android:layout_alignParentLeft="true"
+	    android:layout_alignParentTop="true"/>
+	-->
+    <include
+        android:id="@+id/fullplayer_bottombar"
+        layout="@layout/youplayer_fullplayer_bottombar" 
+        android:layout_width="450dip"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="center"
+        android:layout_alignParentBottom="true"/>
+  <!-- 
+          android:layout_alignParentLeft="true"
+    <LinearLayout 
+        android:id="@+id/fullplayer_relative_container"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/fullplayer_topbar" 
+	    android:layout_above="@id/fullplayer_bottombar"
+	    android:orientation="horizontal"
+	    android:visibility="invisible"
+        >
+        <ImageButton 
+            android:id="@+id/fullplayer_btn_relative"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+             android:scaleType="center"
+	         android:background="#00000000"
+            android:src="@drawable/youplayer_fullplayer_btn_relative"
+            />
+	    <com.youplayer.player.fullplayer.YouPlayerRelativeList
+	        android:id="@+id/fullplayer_videolink"
+	        android:layout_width="wrap_content"
+	        android:layout_height="fill_parent" 
+	        android:background="@drawable/youplayer_fullplayer_relatedvideo_bg"
+	        android:cacheColorHint="#00000000"  
+	        android:divider="@drawable/youplayer_fullplayer_relatedvideo_line"
+	        android:visibility="gone"
+	       >
+	   </com.youplayer.player.fullplayer.YouPlayerRelativeList>
+    </LinearLayout>
+    -->
+    <TextView android:id="@+id/fullplayer_center_tips"
+        android:layout_marginTop="@dimen/fullplayer_tips_top_margin"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:textColor="@color/tips_text_color"
+        android:visibility="gone"
+        android:singleLine="true" />
+        
+    <com.youplayer.player.fullplayer.YouPlayerVolControl android:id="@+id/full_sound_seekto"
+        android:text="@string/full_player_message2"
+        android:layout_above="@id/fullplayer_bottombar"
+        android:layout_alignParentLeft="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="@dimen/fullplayer_full_sound_bright_margin_left"
+        android:visibility="invisible"  />
+    <com.youplayer.player.fullplayer.YouPlayerBrightControl android:id="@+id/full_brightness_seekto"
+        android:text="@string/full_player_message3"
+        android:layout_alignParentLeft="true"
+        android:layout_above="@id/fullplayer_bottombar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:layout_marginLeft="@dimen/fullplayer_full_sound_bright_margin_left"
+        android:visibility="invisible" />        
+    <RelativeLayout
+	    android:id="@+id/fullplayer_waitting_layout"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:gravity="center"
+	    android:clickable="true"
+	    android:visibility="invisible">
+
+	    <ProgressBar
+	        style="?android:attr/progressBarStyleLarge"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"/>
+    </RelativeLayout>
+    
+    <RelativeLayout
+        android:id="@+id/fullplayer_lock_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/transparent"
+        android:clickable="true"
+        android:visibility="invisible">
+        <com.youplayer.player.fullplayer.YouPlayerSlideView
+                  android:id="@+id/fullplayer_lock_slidrview"
+                  android:layout_marginTop="@dimen/fullplayer_full_lock_top"
+                  android:layout_centerHorizontal="true"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                >
+                <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/full_player_unlock_message"
+                  android:textSize="@dimen/fullplayer_full_lock_text_size"
+                  android:layout_centerInParent="true"
+                  android:textColor="@color/fullplayer_lock_textcolor"
+                ></TextView>
+       </com.youplayer.player.fullplayer.YouPlayerSlideView>
+        
+    </RelativeLayout>
+    
+    <ImageView 
+        android:id="@+id/fullplayer_mask"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="1dip"
+        android:layout_marginTop="1dip"
+        android:layout_marginRight="1dip"
+        android:layout_marginBottom="1dip"
+        android:scaleType="fitXY"
+        android:visibility="gone"
+        />
+    
+    
+    
+</RelativeLayout>

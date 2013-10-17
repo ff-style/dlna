@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy
+END
+IDeviceChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy/IDeviceChangeListener.java
+END
+ContentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy/ContentManager.java
+END
+DeviceBrocastFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy/DeviceBrocastFactory.java
+END
+DeviceChangeBrocastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy/DeviceChangeBrocastReceiver.java
+END
+ControlRequestProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy/ControlRequestProxy.java
+END
+AllShareProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/work/dlna/!svn/ver/22/youplayer/src/com/talent/allshare/proxy/AllShareProxy.java
+END

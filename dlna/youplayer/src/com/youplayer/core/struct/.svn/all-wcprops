@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct
+END
+You_full_screen_player_data_to_ui.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_full_screen_player_data_to_ui.java
+END
+You_player_media_info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_player_media_info.java
+END
+You_full_player_media_info.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_full_player_media_info.java
+END
+You_full_screen_player_item.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_full_screen_player_item.java
+END
+You_page_full_player_show_type.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_page_full_player_show_type.java
+END
+You_core_push_or_pop_page_data_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_core_push_or_pop_page_data_t.java
+END
+You_data_original_web_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_data_original_web_t.java
+END
+You_full_player_local_done_to_history.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_full_player_local_done_to_history.java
+END
+You_full_screen_tips.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_full_screen_tips.java
+END
+You_local_media_click_cell_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_local_media_click_cell_t.java
+END
+You_full_screen_cached_player_item.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/work/dlna/!svn/ver/22/youplayer/src/com/youplayer/core/struct/You_full_screen_cached_player_item.java
+END

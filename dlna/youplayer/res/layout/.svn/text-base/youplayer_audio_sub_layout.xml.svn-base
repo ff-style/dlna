@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical">
+	<ScrollView android:layout_width="fill_parent"
+	android:layout_weight="6"
+		android:layout_height="wrap_content">
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="fill_parent" android:id="@+id/container_list"
+			android:background="@drawable/youplayer_rounded_corners_view"
+			android:orientation="vertical">
+
+		     <TextView android:id="@+id/audio_sub_video_text" android:text="@string/audio_sub_video_size"
+				android:background="@drawable/youplayer_rounded_corners_line_bg" android:layout_marginTop="1px"
+				android:layout_marginBottom ="0px" android:layout_marginLeft ="2px"
+				android:layout_marginRight ="2px" android:textSize="24px"
+				android:textColor="#1B1B1C"
+				android:layout_gravity="center"
+				android:paddingTop="5px"
+				android:paddingLeft="10px"
+				android:layout_width="fill_parent"
+				android:layout_height="43px"/>
+             <TextView 
+                android:background="#ababac" android:layout_width="fill_parent"
+                android:layout_height="1px"/>
+			<TextView android:id="@+id/audio_sub_track_text"
+				android:text="@string/audio_sub_audio_select" 
+				android:background="@drawable/youplayer_rounded_corners_line_bg"
+				android:layout_marginTop="0px" android:layout_marginBottom="0px"
+				android:layout_marginLeft="2px" android:layout_marginRight="2px"
+				android:textSize="24px" android:layout_width="fill_parent"
+				android:textColor="#666666"
+				android:paddingTop="5px"
+				android:paddingLeft="10px"
+				android:layout_height="43px" />
+             <TextView 
+                android:background="#ababac" android:layout_width="fill_parent"
+                android:layout_height="1px"/>	
+                			
+			<RadioGroup android:id="@+id/audio_sub_track_group"
+				android:layout_width="fill_parent" android:layout_height="wrap_content">
+			</RadioGroup>
+             <TextView 
+                android:background="#ababac" android:layout_width="fill_parent"
+                android:layout_height="1px"/>			
+			<TextView android:id="@+id/audio_sub_subtitle_text"
+				android:text="@string/audio_sub_sub_select" android:background="@drawable/youplayer_rounded_corners_line_bg"
+				android:layout_marginTop="1px" android:layout_marginBottom="0px"
+				android:layout_marginLeft="2px" android:layout_marginRight="2px"
+				android:textSize="24px" android:layout_width="fill_parent"
+				android:textColor="#666666"
+				android:paddingTop="5px"
+				android:paddingLeft="10px"
+				android:layout_height="43px" />
+             <TextView 
+                android:background="#ababac" 
+                android:layout_width="fill_parent"
+                android:layout_height="1px"/>				
+			<RadioGroup android:id="@+id/audio_sub_subtitle_group"
+				android:layout_width="fill_parent" android:layout_height="wrap_content"
+				android:layout_marginBottom ="2px">
+			</RadioGroup>
+ 			
+		</LinearLayout>
+	</ScrollView>
+     <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5px"
+        android:layout_weight="1"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/submit"
+            android:layout_width="fill_parent"
+            android:layout_marginLeft="30dip"
+            android:layout_marginRight="30dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginBottom="2px"
+            android:text="@string/dialog_ok" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginLeft="30dip"
+            android:layout_marginRight="30dip"
+            android:layout_marginBottom="2px"
+            android:text="@string/dialog_cancel" />
+    </LinearLayout>
+</LinearLayout>
